@@ -8,7 +8,7 @@ The lab starts from isolated routing tables and ends with full reachability betw
 | File | Description |
 |---|---|
 | `RIP LAB.pkt` | Packet Tracer topology, fully configured |
-| `RIPv2_Lab_Carousel.pdf` | Visual summary of the lab |
+| `RIPv2_Lab.pdf` | Visual summary of the lab |
 | `Routing Information Protocol (RIP).xmind` | Mind map of RIP theory (outline below) |
 | `RIP_Mindmap.png` | Mind map exported as an image |
 
